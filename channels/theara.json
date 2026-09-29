@@ -1,1 +1,12 @@
-{"app_id":"theara","version":"1.0.3","enabled":false,"download_url":"","sha256":"","title":"Theara","changelog":"Update channel initialized."}
+{
+  "app_id": "theara",
+  "title": "M Tool Account",
+  "version": "3.5.5",
+  "enabled": true,
+  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-account-v3.5.5/M_Tool_Account_v3.5.5.zip",
+  "sha256": "547f2ff68181b11e10cbc2c2c2d5996df4e7f51c6cba6748617875a4e757b78a",
+  "author": "Theara",
+  "release_date": "2026-09-29",
+  "changelog": "- Fix category import: accounts are accurately put into the selected category\n- Add quick '+' category button inside import dialog\n- Instant 'Move To' category menu response with zero delay",
+  "mandatory": false
+}
