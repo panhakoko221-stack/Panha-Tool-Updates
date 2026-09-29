@@ -1,12 +1,12 @@
 {
   "app_id": "theara",
   "title": "M Tool Account",
-  "version": "3.5.5",
+  "version": "3.5.6",
   "enabled": true,
-  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-account-v3.5.5/M_Tool_Account_v3.5.5.zip",
-  "sha256": "547f2ff68181b11e10cbc2c2c2d5996df4e7f51c6cba6748617875a4e757b78a",
+  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-account-v3.5.6/M_Tool_Account_v3.5.6.zip",
+  "sha256": "58b613e01c7b13ea004cbd7f198f6cda0975d6ca6004a413d04583eb1b7fad71",
   "author": "Theara",
   "release_date": "2026-09-29",
-  "changelog": "- Fix category import: accounts are accurately put into the selected category\n- Add quick '+' category button inside import dialog\n- Instant 'Move To' category menu response with zero delay",
+  "changelog": "- Import Account now always uses the selected category\n- Existing UIDs update and move to the selected category\n- Duplicate Import field mappings no longer overwrite values\n- All Import combo fields now persist in the client database\n- Move To shows clear success feedback",
   "mandatory": false
 }
