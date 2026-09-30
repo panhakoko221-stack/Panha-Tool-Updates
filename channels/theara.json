@@ -1,12 +1,12 @@
 {
   "app_id": "theara",
   "title": "M Tool Account",
-  "version": "3.5.6",
+  "version": "3.5.7",
   "enabled": true,
-  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-account-v3.5.6/M_Tool_Account_v3.5.6.zip",
-  "sha256": "58b613e01c7b13ea004cbd7f198f6cda0975d6ca6004a413d04583eb1b7fad71",
+  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-account-v3.5.7/M_Tool_Account_v3.5.7.zip",
+  "sha256": "754563ece426e2f17e1cf941a56ddd2cb9c628fe38c3dc5c3c14d39a0052060a",
   "author": "Theara",
-  "release_date": "2026-09-29",
-  "changelog": "- Import Account now always uses the selected category\n- Existing UIDs update and move to the selected category\n- Duplicate Import field mappings no longer overwrite values\n- All Import combo fields now persist in the client database\n- Move To shows clear success feedback",
+  "release_date": "2026-09-30",
+  "changelog": "- New Chrome tabs opened by the user now stay open\n- Bookmarks persist separately in every account Chrome profile\n- Facebook and Hotmail tabs are reused without closing other tabs\n- Profile Folder opens the real configured location, including another drive",
   "mandatory": false
 }
