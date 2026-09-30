@@ -1,12 +1,12 @@
 {
   "app_id": "m-tool-account",
   "title": "M Tool Account",
-  "version": "3.5.16",
+  "version": "3.5.23",
   "enabled": true,
-  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-account-v3.5.16/M_Tool_Account_v3.5.16.zip",
-  "sha256": "4f49d24f1aacf9540378f2adabe38145d74d367fdc34218a25c3a2ef141bbbed",
+  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-account-v3.5.23/M_Tool_Account_v3.5.23.zip",
+  "sha256": "4a911336994b6f9772b3dd138657417337f36119fb65716d4c55f8659b1ace69",
   "author": "Theara",
   "release_date": "2026-09-30",
-  "changelog": "Improve Khmer readability throughout the application. Menus, category names, tables, buttons, forms and text editors now prioritize Khmer OS Siemreap with verified Unicode glyph support, and context-menu text is enlarged to prevent Khmer clusters from appearing as tiny unknown marks.",
+  "changelog": "Fix false Checkpoint Disabled labels from diagnostic messages; tighten checkpoint detection and isolate cookie/token checks. Improve Khmer fonts, hourly text-only account backups, UID-named browser profiles and account/profile maintenance. Move Chrome/Brave/Edge selection beside Columns. Selecting a drive now uses M Tool Account/ChromeProfiles; Save Path can organize existing profiles and Bak after browsers close. Existing custom locations remain unchanged. Preserve existing verified sessions; logged-out accounts try cookies before UID/password. Recognize pending 2FA verification and preserve its page instead of restarting password login. Close tool-owned Chrome/Brave/Edge sessions on exit without closing personal browser windows. Hotmail OAuth requires your own Microsoft app setup. Live Facebook login and 2FA compatibility still require authorized-account testing.",
   "mandatory": false
 }
