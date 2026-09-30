@@ -1,12 +1,12 @@
 {
-  "app_id": "theara",
+  "app_id": "m-tool-account",
   "title": "M Tool Account",
-  "version": "3.5.9",
+  "version": "3.5.10",
   "enabled": true,
-  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-account-v3.5.9/M_Tool_Account_v3.5.9.zip",
-  "sha256": "cc7c08581e5b8f4b944029c08b479946f27934cf7643b3ff0082c94571145bc6",
+  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-account-v3.5.10/M_Tool_Account_v3.5.10.zip",
+  "sha256": "46868e5899504d7930c13eaac8502884ba1aba58d9640acb31e84275a7d55cd3",
   "author": "Theara",
   "release_date": "2026-09-30",
-  "changelog": "Verified install and restart; update completion popup; correct update channel handling.",
+  "changelog": "Fix installer arguments and hash verification; show completion only after the new version starts.",
   "mandatory": false
 }
