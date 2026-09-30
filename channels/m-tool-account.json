@@ -1,12 +1,12 @@
 {
   "app_id": "m-tool-account",
   "title": "M Tool Account",
-  "version": "3.5.15",
+  "version": "3.5.16",
   "enabled": true,
-  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-account-v3.5.15/M_Tool_Account_v3.5.15.zip",
-  "sha256": "ae9495fe5181dc9aa589ea73344fb2d7a6bc30fab367b7aaa924534354d48bb3",
+  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-account-v3.5.16/M_Tool_Account_v3.5.16.zip",
+  "sha256": "4f49d24f1aacf9540378f2adabe38145d74d367fdc34218a25c3a2ef141bbbed",
   "author": "Theara",
   "release_date": "2026-09-30",
-  "changelog": "Fix Khmer text rendering in menus, tables, buttons and category names. Enable the native X close button on all application dialogs. Add FPlus-style hourly UTF-8 account text backups to the active Chrome Profiles\\Bak folder; backups contain account data and cookies only, never Chrome profile files, and retain the newest 72 snapshots.",
+  "changelog": "Improve Khmer readability throughout the application. Menus, category names, tables, buttons, forms and text editors now prioritize Khmer OS Siemreap with verified Unicode glyph support, and context-menu text is enlarged to prevent Khmer clusters from appearing as tiny unknown marks.",
   "mandatory": false
 }
