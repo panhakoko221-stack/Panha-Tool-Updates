@@ -1,12 +1,12 @@
 {
   "app_id": "m-tool-account",
   "title": "M Tool Account",
-  "version": "3.5.23",
+  "version": "3.5.33",
   "enabled": true,
-  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-account-v3.5.23/M_Tool_Account_v3.5.23.zip",
-  "sha256": "4a911336994b6f9772b3dd138657417337f36119fb65716d4c55f8659b1ace69",
+  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-account-v3.5.33/M_Tool_Account_v3.5.33.zip",
+  "sha256": "d72241bedbdc42da6bde1f6e5b01a03b6ee4678f60d33de6ce9080135a5bb3e2",
   "author": "Theara",
   "release_date": "2026-09-30",
-  "changelog": "Fix false Checkpoint Disabled labels from diagnostic messages; tighten checkpoint detection and isolate cookie/token checks. Improve Khmer fonts, hourly text-only account backups, UID-named browser profiles and account/profile maintenance. Move Chrome/Brave/Edge selection beside Columns. Selecting a drive now uses M Tool Account/ChromeProfiles; Save Path can organize existing profiles and Bak after browsers close. Existing custom locations remain unchanged. Preserve existing verified sessions; logged-out accounts try cookies before UID/password. Recognize pending 2FA verification and preserve its page instead of restarting password login. Close tool-owned Chrome/Brave/Edge sessions on exit without closing personal browser windows. Hotmail OAuth requires your own Microsoft app setup. Live Facebook login and 2FA compatibility still require authorized-account testing.",
+  "changelog": "Fix Login Hotmail: choose Microsoft's offered Use your password route before email entry; use only the saved email password, never Facebook password or 2FA. Leave recovery/MFA prompts for manual verification. Mailbox diagnostics preserve Facebook health and update safely on the GUI thread. Retains previous UID lookup, updater and QtCore fixes.",
   "mandatory": false
 }
