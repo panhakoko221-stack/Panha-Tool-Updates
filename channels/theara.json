@@ -1,12 +1,12 @@
 {
   "app_id": "m-tool-account",
   "title": "M Tool Account",
-  "version": "3.5.11",
+  "version": "3.5.12",
   "enabled": true,
-  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-account-v3.5.11/M_Tool_Account_v3.5.11.zip",
-  "sha256": "f577647b76f025129230fa924c6e2de9754320525c0c16228b2628d53c9b41ad",
+  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-account-v3.5.12/M_Tool_Account_v3.5.12.zip",
+  "sha256": "8ed64ad9178af194091705562e70b31c76cb6c5fcd13abd2f21791be9cd9ba62",
   "author": "Theara",
   "release_date": "2026-09-30",
-  "changelog": "Fix unreadable text in the Live Update window, status messages, and update buttons.",
+  "changelog": "Client packages exclude personal accounts, cookies, Chrome profiles and backups. Fresh clients start empty and do not import account data from parent folders. Existing client accounts remain intact.",
   "mandatory": false
 }
