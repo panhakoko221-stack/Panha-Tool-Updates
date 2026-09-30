@@ -1,12 +1,12 @@
 {
   "app_id": "m-tool-account",
   "title": "M Tool Account",
-  "version": "3.5.13",
+  "version": "3.5.14",
   "enabled": true,
-  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-account-v3.5.13/M_Tool_Account_v3.5.13.zip",
-  "sha256": "27b0f60ddd07398cf92ee09650027aaab67db351d0ae69dc102c776444d52f89",
+  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-account-v3.5.14/M_Tool_Account_v3.5.14.zip",
+  "sha256": "88ab6175230ac287c35ae13edb9772c4086539ff27aa46660a2ea1bb39e8cd5a",
   "author": "Theara",
   "release_date": "2026-09-30",
-  "changelog": "Open Chrome for every selected account. Two selected accounts open two separate Chrome profiles, and larger selections are no longer limited to five. The Chrome toolbar button and View in Chrome menu now use the full selection without opening duplicate account profiles.",
+  "changelog": "Preserve accounts, settings and custom Chrome profile locations across client updates and fresh tool folders. When the profiles folder is changed manually, existing managed profiles move safely to the new folder after Chrome is closed. Updates never reset or re-import over a saved custom folder.",
   "mandatory": false
 }
