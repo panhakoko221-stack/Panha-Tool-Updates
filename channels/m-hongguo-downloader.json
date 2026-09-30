@@ -1,0 +1,12 @@
+{
+  "app_id": "m-hongguo-downloader",
+  "title": "M HongguoDownloader",
+  "version": "2.3.4",
+  "enabled": true,
+  "author": "Theara",
+  "release_date": "2026-09-30",
+  "mandatory": false,
+  "changelog": "Fix web client updates to verify and install the new version, restart the app, and replace its Desktop shortcut. Include the web interface, correct app name, version, and Builder by Theara.",
+  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-hongguo-downloader-v2.3.4/M_HongguoDownloader_v2.3.4.zip",
+  "sha256": "b1cf5380d74d95a27cca342527bb8b4d7d9bd178bda831337b9cf2ed2f223ed3"
+}
