@@ -1,12 +1,12 @@
 {
   "app_id": "m-tool-account",
   "title": "M Tool Account",
-  "version": "3.5.14",
+  "version": "3.5.15",
   "enabled": true,
-  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-account-v3.5.14/M_Tool_Account_v3.5.14.zip",
-  "sha256": "88ab6175230ac287c35ae13edb9772c4086539ff27aa46660a2ea1bb39e8cd5a",
+  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-account-v3.5.15/M_Tool_Account_v3.5.15.zip",
+  "sha256": "ae9495fe5181dc9aa589ea73344fb2d7a6bc30fab367b7aaa924534354d48bb3",
   "author": "Theara",
   "release_date": "2026-09-30",
-  "changelog": "Preserve accounts, settings and custom Chrome profile locations across client updates and fresh tool folders. When the profiles folder is changed manually, existing managed profiles move safely to the new folder after Chrome is closed. Updates never reset or re-import over a saved custom folder.",
+  "changelog": "Fix Khmer text rendering in menus, tables, buttons and category names. Enable the native X close button on all application dialogs. Add FPlus-style hourly UTF-8 account text backups to the active Chrome Profiles\\Bak folder; backups contain account data and cookies only, never Chrome profile files, and retain the newest 72 snapshots.",
   "mandatory": false
 }
