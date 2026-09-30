@@ -1,12 +1,12 @@
 {
   "app_id": "m-tool-account",
   "title": "M Tool Account",
-  "version": "3.5.12",
+  "version": "3.5.13",
   "enabled": true,
-  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-account-v3.5.12/M_Tool_Account_v3.5.12.zip",
-  "sha256": "8ed64ad9178af194091705562e70b31c76cb6c5fcd13abd2f21791be9cd9ba62",
+  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-account-v3.5.13/M_Tool_Account_v3.5.13.zip",
+  "sha256": "27b0f60ddd07398cf92ee09650027aaab67db351d0ae69dc102c776444d52f89",
   "author": "Theara",
   "release_date": "2026-09-30",
-  "changelog": "Client packages exclude personal accounts, cookies, Chrome profiles and backups. Fresh clients start empty and do not import account data from parent folders. Existing client accounts remain intact.",
+  "changelog": "Open Chrome for every selected account. Two selected accounts open two separate Chrome profiles, and larger selections are no longer limited to five. The Chrome toolbar button and View in Chrome menu now use the full selection without opening duplicate account profiles.",
   "mandatory": false
 }
