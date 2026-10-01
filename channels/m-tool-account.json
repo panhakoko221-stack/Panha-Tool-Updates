@@ -1,12 +1,12 @@
 {
   "app_id": "m-tool-account",
   "title": "M Tool Account",
-  "version": "3.5.33",
+  "version": "3.5.57",
   "enabled": true,
-  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-account-v3.5.33/M_Tool_Account_v3.5.33.zip",
-  "sha256": "d72241bedbdc42da6bde1f6e5b01a03b6ee4678f60d33de6ce9080135a5bb3e2",
+  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-account-v3.5.57/M_Tool_Account_v3.5.57.zip",
+  "sha256": "ed65b9b1ea24b51f94d71687026862a64b391982619fa502aaa81c9d4211686c",
   "author": "Theara",
-  "release_date": "2026-09-30",
-  "changelog": "Fix Login Hotmail: choose Microsoft's offered Use your password route before email entry; use only the saved email password, never Facebook password or 2FA. Leave recovery/MFA prompts for manual verification. Mailbox diagnostics preserve Facebook health and update safely on the GUI thread. Retains previous UID lookup, updater and QtCore fixes.",
+  "release_date": "2026-10-01",
+  "changelog": "Fix the Move To category menu crash caused by accessing a deleted Qt menu. Keep category lists fresh on each right-click and move all selected accounts. Includes the latest account tool fixes through 3.5.56: thread settings, browser reuse, cookie-first session handling, and improved pending/checkpoint classification. Preserve accounts, settings, and custom browser profile folders during updates. Automated sample and startup checks passed; live-account workflow acceptance remains unverified.",
   "mandatory": false
 }
