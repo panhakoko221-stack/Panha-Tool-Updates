@@ -1,12 +1,12 @@
 {
   "app_id": "m-tool-get-code",
   "title": "M Tool Get Code",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "enabled": true,
-  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-get-code-v1.0.7/M_Tool_Get_Code_v1.0.7.zip",
-  "sha256": "25c8c024df09272e640f1f7be08e6e398c587300969c6d6dad10b0f708dfccb3",
+  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-get-code-v1.0.8/M_Tool_Get_Code_v1.0.8.zip",
+  "sha256": "577d2ab07662629190e6872bceeda3d2630198bbbc5272cb95f92a5b0d2724d6",
   "author": "Theara",
-  "release_date": "2026-09-30",
-  "changelog": "- Fixes QtCore DLL startup failure\n- Replaces the installed version and restarts automatically\n- Refreshes the Desktop shortcut while preserving local account data",
+  "release_date": "2026-10-12",
+  "changelog": "- Includes the complete Python 3.12 runtime\n- Validates runtime files and SHA256 before updating\n- Preserves local account data during updates",
   "mandatory": false
 }
