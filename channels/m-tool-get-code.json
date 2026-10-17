@@ -1,12 +1,12 @@
 {
   "app_id": "m-tool-get-code",
   "title": "M Tool Get Code",
-  "version": "1.0.8",
+  "version": "1.0.11",
   "enabled": true,
-  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-get-code-v1.0.8/M_Tool_Get_Code_v1.0.8.zip",
-  "sha256": "577d2ab07662629190e6872bceeda3d2630198bbbc5272cb95f92a5b0d2724d6",
+  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-get-code-v1.0.11/M_Tool_Get_Code_v1.0.11.zip",
+  "sha256": "663e80537b20d3d47e382d6164bd4d2f14f0e990ed248290872a667af80f5117",
   "author": "Theara",
-  "release_date": "2026-10-12",
-  "changelog": "- Includes the complete Python 3.12 runtime\n- Validates runtime files and SHA256 before updating\n- Preserves local account data during updates",
-  "mandatory": false
+  "release_date": "2026-10-17",
+  "mandatory": false,
+  "changelog": "- Fix Facebook confirmation emails with subjects ending in \"is your Facebook code\"\n- Retain filtering of email aliases, URLs, receipts, and login notifications"
 }
