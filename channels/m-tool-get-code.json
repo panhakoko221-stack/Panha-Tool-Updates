@@ -1,12 +1,12 @@
 {
   "app_id": "m-tool-get-code",
   "title": "M Tool Get Code",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "enabled": true,
-  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-get-code-v1.0.11/M_Tool_Get_Code_v1.0.11.zip",
-  "sha256": "663e80537b20d3d47e382d6164bd4d2f14f0e990ed248290872a667af80f5117",
+  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-get-code-v1.0.12/M_Tool_Get_Code_v1.0.12.zip",
+  "sha256": "f2011ecc500cc3738b40db57895838f7d68e280a86dea9878009f4e70a36a038",
   "author": "Theara",
-  "release_date": "2026-10-17",
+  "release_date": "2026-10-24",
   "mandatory": false,
-  "changelog": "- Fix Facebook confirmation emails with subjects ending in \"is your Facebook code\"\n- Retain filtering of email aliases, URLs, receipts, and login notifications"
+  "changelog": "- Auto-refreshes fetched Yandex mailboxes every 20 seconds after a manual fetch\n- Keeps the prior code visible while checking for newly delivered verification mail\n- Auto refresh can be disabled in the Yandex toolbar"
 }
