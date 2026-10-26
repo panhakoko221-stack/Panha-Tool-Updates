@@ -1,12 +1,12 @@
 {
   "app_id": "m-tool-get-code",
   "title": "M Tool Get Code",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "enabled": true,
-  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-get-code-v1.0.12/M_Tool_Get_Code_v1.0.12.zip",
-  "sha256": "f2011ecc500cc3738b40db57895838f7d68e280a86dea9878009f4e70a36a038",
+  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-get-code-v1.0.13/M_Tool_Get_Code_v1.0.13.zip",
+  "sha256": "509b234296b0f67530d8f06cb6ab2125ae97dc794909afb0933aeed2f528fe17",
   "author": "Theara",
-  "release_date": "2026-10-24",
+  "release_date": "2026-10-26",
   "mandatory": false,
-  "changelog": "- Auto-refreshes fetched Yandex mailboxes every 20 seconds after a manual fetch\n- Keeps the prior code visible while checking for newly delivered verification mail\n- Auto refresh can be disabled in the Yandex toolbar"
+  "changelog": "- Auto refresh is off by default\n- Optional 20-second follow-up checks can be enabled from the Yandex toolbar"
 }
