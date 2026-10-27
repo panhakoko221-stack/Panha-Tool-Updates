@@ -1,12 +1,12 @@
 {
   "app_id": "m-tool-account",
   "title": "M Tool Account",
-  "version": "3.5.57",
+  "version": "3.5.60",
   "enabled": true,
-  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-account-v3.5.57/M_Tool_Account_v3.5.57.zip",
-  "sha256": "ed65b9b1ea24b51f94d71687026862a64b391982619fa502aaa81c9d4211686c",
+  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-account-v3.5.60/M_Tool_Account_v3.5.60.zip",
+  "sha256": "0ca271cbe956fe6864f095c4a25c806ae79ce62cd615eafeaaa55a5de7dc4607",
   "author": "Theara",
-  "release_date": "2026-10-01",
-  "changelog": "Fix the Move To category menu crash caused by accessing a deleted Qt menu. Keep category lists fresh on each right-click and move all selected accounts. Includes the latest account tool fixes through 3.5.56: thread settings, browser reuse, cookie-first session handling, and improved pending/checkpoint classification. Preserve accounts, settings, and custom browser profile folders during updates. Automated sample and startup checks passed; live-account workflow acceptance remains unverified.",
+  "release_date": "2026-10-27",
+  "changelog": "Chrome profile storage migration now offers Verify duplicates, Skip existing, or Cancel. Verification compares profile file contents and never overwrites conflicting destination data.",
   "mandatory": false
 }
