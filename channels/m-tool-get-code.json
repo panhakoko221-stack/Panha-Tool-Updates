@@ -1,12 +1,12 @@
 {
   "app_id": "m-tool-get-code",
   "title": "M Tool Get Code",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "enabled": true,
-  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-get-code-v1.0.13/M_Tool_Get_Code_v1.0.13.zip",
-  "sha256": "509b234296b0f67530d8f06cb6ab2125ae97dc794909afb0933aeed2f528fe17",
+  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-get-code-v1.0.14/M_Tool_Get_Code_v1.0.14.zip",
+  "sha256": "854bb7bed4ac9daa2e7e9df867bc41d538a20cf5b31cc267a675d7ce21aa42f7",
   "author": "Theara",
-  "release_date": "2026-10-26",
+  "release_date": "2026-11-16",
   "mandatory": false,
-  "changelog": "- Auto refresh is off by default\n- Optional 20-second follow-up checks can be enabled from the Yandex toolbar"
+  "changelog": "- Enhanced live auto-updater with robust file lock release and robocopy engine\n- Fixed live update file replacement for all client PCs\n- Support legacy binary name discovery and multi-instance termination"
 }
