@@ -1,12 +1,12 @@
 {
   "app_id": "m-tool-account",
   "title": "M Tool Account",
-  "version": "3.5.63",
+  "version": "3.5.64",
   "enabled": true,
-  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-account-v3.5.63/M_Tool_Account_v3.5.63.zip",
-  "sha256": "819f37a1432c63ca00fc4f5a39dba31b2c08eb75a9e23b4292976f979a18e734",
+  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-account-v3.5.64/M_Tool_Account_v3.5.64.zip",
+  "sha256": "a516e6a49836a1d8683aa01e16a9e06e92217b467a5a50f1ae0e244ec8d67934",
   "author": "Theara",
   "release_date": "2026-11-27",
-  "changelog": "Set User-Agent selector default to blank before Random UA Chrome, UA Chrome Android, and UA Android App.",
+  "changelog": "Fixed Hotmail/Outlook OTP code extraction (strips HTML/URLs, sorts newest first, prioritizes Facebook/Meta mail) and added REST API fallback for Microsoft sign-in.",
   "mandatory": false
 }
