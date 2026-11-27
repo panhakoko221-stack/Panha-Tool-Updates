@@ -1,12 +1,12 @@
 {
   "app_id": "m-tool-account",
   "title": "M Tool Account",
-  "version": "3.5.62",
+  "version": "3.5.63",
   "enabled": true,
-  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-account-v3.5.62/M_Tool_Account_v3.5.62.zip",
-  "sha256": "7da8f13e111d872afb047bf7ca4596d3486b76d503a638c04eccd634e83a4bfc",
+  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-account-v3.5.63/M_Tool_Account_v3.5.63.zip",
+  "sha256": "819f37a1432c63ca00fc4f5a39dba31b2c08eb75a9e23b4292976f979a18e734",
   "author": "Theara",
   "release_date": "2026-11-27",
-  "changelog": "Updated account table, Chrome manager, checkpoint unlocker, contact deletion, and profile info handling.",
+  "changelog": "Set User-Agent selector default to blank before Random UA Chrome, UA Chrome Android, and UA Android App.",
   "mandatory": false
 }
