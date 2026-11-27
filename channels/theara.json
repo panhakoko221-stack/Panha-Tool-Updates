@@ -1,12 +1,12 @@
 {
   "app_id": "m-tool-account",
   "title": "M Tool Account",
-  "version": "3.5.60",
+  "version": "3.5.62",
   "enabled": true,
-  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-account-v3.5.60/M_Tool_Account_v3.5.60.zip",
-  "sha256": "0ca271cbe956fe6864f095c4a25c806ae79ce62cd615eafeaaa55a5de7dc4607",
+  "download_url": "https://github.com/panhakoko221-stack/Panha-Tool-Updates/releases/download/m-tool-account-v3.5.62/M_Tool_Account_v3.5.62.zip",
+  "sha256": "7da8f13e111d872afb047bf7ca4596d3486b76d503a638c04eccd634e83a4bfc",
   "author": "Theara",
-  "release_date": "2026-10-27",
-  "changelog": "Chrome profile storage migration now offers Verify duplicates, Skip existing, or Cancel. Verification compares profile file contents and never overwrites conflicting destination data.",
+  "release_date": "2026-11-27",
+  "changelog": "Updated account table, Chrome manager, checkpoint unlocker, contact deletion, and profile info handling.",
   "mandatory": false
 }
